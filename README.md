@@ -47,16 +47,17 @@ The application evaluates complex rules dynamically based on a user's data attri
 ## 📸 Snapshots
 
 ### Rule Details
-![Rule Details](https://github.com/user-attachments/assets/2e556085-b162-49d3-b125-09bb144c0efe)
+![image](https://github.com/user-attachments/assets/ffa09c6e-60d1-4548-9fcf-b79eed581eb4)
 
 ### Create Rule
-![Create Rule](https://github.com/user-attachments/assets/0fccfbef-caca-472d-996c-efaacdca8858)
+![image](https://github.com/user-attachments/assets/72ddecab-3748-4311-bb55-48de39061435)
 
 ### Evaluate Rule
-![Evaluate Rule](https://github.com/user-attachments/assets/0a418d7f-4a49-45d9-b946-2399515f6fa7)
+![image](https://github.com/user-attachments/assets/b3bf84c1-0a2f-458b-bac2-5a8c88ce8078)
 
 ### Database Schema
-![Database Schema](https://github.com/user-attachments/assets/e26ced63-1c75-4f89-8879-f55219676801)
+![Uploading image.png…]()
+
 
 ---
 
