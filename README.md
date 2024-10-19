@@ -106,9 +106,13 @@ The application evaluates complex rules dynamically based on a user's data attri
    node index.js
    ```
 
-6. **Access the application:**  
-   - **Frontend**: Open `http://localhost:3000` in your browser.  
+6. **Access the application:**
+   ```bash
+   - **Frontend**: Open `http://localhost:3000` in your browser.
+   ```
+   ```bash
    - **Backend**: API will run on `http://localhost:5000`.
+   ```
 
 ---
 
