@@ -1,4 +1,4 @@
-# Rule Engine with AST
+![image](https://github.com/user-attachments/assets/e09a6fc4-f419-46e7-8488-b6bda775513b)# Rule Engine with AST
 
 ![image](https://github.com/user-attachments/assets/b650b1d0-88f5-4d4c-98bb-ced66a42cf36)
 
@@ -56,7 +56,8 @@ The application evaluates complex rules dynamically based on a user's data attri
 ![image](https://github.com/user-attachments/assets/b3bf84c1-0a2f-458b-bac2-5a8c88ce8078)
 
 ### Database Schema
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f53ec406-2810-4b55-92f4-c9c95898055b)
+
 
 
 ---
