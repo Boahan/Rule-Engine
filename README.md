@@ -108,10 +108,13 @@ The application evaluates complex rules dynamically based on a user's data attri
 
 6. **Access the application:**
 
-   - **Frontend**: ```bash Open `http://localhost:3000` in your browser.
-   ```
+   - **Frontend**:
    ```bash
-   - **Backend**: API will run on `http://localhost:5000`.
+      Open `http://localhost:3000` in your browser.
+   ```
+   - **Backend**:
+   ```bash
+    API will run on `http://localhost:5000`.
    ```
 
 ---
