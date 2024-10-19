@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e09a6fc4-f419-46e7-8488-b6bda775513b)# Rule Engine with AST
+# Rule Engine with AST
 
 ![image](https://github.com/user-attachments/assets/b650b1d0-88f5-4d4c-98bb-ced66a42cf36)
 
