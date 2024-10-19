@@ -1,6 +1,7 @@
 # Rule Engine with AST
 
-<img width="959" alt="p1(dark)" src="https://github.com/user-attachments/assets/e17ed6aa-a479-4294-8a1b-09f455e46549">
+![image](https://github.com/user-attachments/assets/b650b1d0-88f5-4d4c-98bb-ced66a42cf36)
+
 
 
 This project is a 3-tier rule engine application designed to determine user eligibility based on attributes such as *age, **department, **income, **spend, etc. The system uses **Abstract Syntax Tree (AST)* to represent conditional rules, allowing dynamic creation, combination, and modification of these rules.
@@ -41,7 +42,7 @@ The application evaluates complex rules dynamically based on a user's data attri
 ## Snapshots:
 
 ### Light Theme:
-<img width="959" alt="p1" src="https://github.com/user-attachments/assets/daf22079-0680-4b26-aae9-cf6478a63186">
+![image](https://github.com/user-attachments/assets/f2421b8a-23b7-44db-beb1-741e38bdcea1)
 
 ### Rules Details:
 <img width="943" alt="p2" src="https://github.com/user-attachments/assets/2e556085-b162-49d3-b125-09bb144c0efe">
@@ -50,7 +51,8 @@ The application evaluates complex rules dynamically based on a user's data attri
 <img width="954" alt="p4" src="https://github.com/user-attachments/assets/0fccfbef-caca-472d-996c-efaacdca8858">
 
 ### Evaluate Rule:
-<img width="959" alt="p3" src="https://github.com/user-attachments/assets/b5e2a38b-9b6e-46aa-a1c8-190b5c07a5bc">
+![image](https://github.com/user-attachments/assets/0a418d7f-4a49-45d9-b946-2399515f6fa7)
+
 
 ### Database:
 <img width="958" alt="p6" src="https://github.com/user-attachments/assets/e26ced63-1c75-4f89-8879-f55219676801">
