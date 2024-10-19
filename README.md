@@ -41,9 +41,6 @@ The application evaluates complex rules dynamically based on a user's data attri
 ---
 ## Snapshots:
 
-### Light Theme:
-![image](https://github.com/user-attachments/assets/f2421b8a-23b7-44db-beb1-741e38bdcea1)
-
 ### Rules Details:
 <img width="943" alt="p2" src="https://github.com/user-attachments/assets/2e556085-b162-49d3-b125-09bb144c0efe">
 
