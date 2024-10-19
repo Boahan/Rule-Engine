@@ -123,8 +123,8 @@ The application evaluates complex rules dynamically based on a user's data attri
 ## 🤝 Contact
 
 For any questions or contributions, feel free to reach out via:
-- [LinkedIn](https://www.linkedin.com/)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/shaswat-gusain-2924a324a/)
+- [Email](mailto:shaswatgusain1@example.com)
 
 ---
 
